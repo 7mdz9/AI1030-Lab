@@ -1,9 +1,14 @@
 These are my initial Git notes.
 Testing clone, commit, and push.
 Learning Git is essential for teamwork.
+<<<<<<< HEAD
 
 Summary:
 Main branch summary — using a slightly different explanation.
 
 Insights:
 Learning how merge and rebase differ helps maintain cleaner collaboration history.
+=======
+Summary:
+This file demonstrates how to use branches in Git and summarize progress.
+>>>>>>> 2a73a13 (Add Summary section to notes)
