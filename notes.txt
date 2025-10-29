@@ -1,0 +1,3 @@
+These are my initial Git notes.
+Testing clone, commit, and push.
+Learning Git is essential for teamwork.
